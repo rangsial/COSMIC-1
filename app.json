@@ -3,7 +3,7 @@
     "description": "COSMIC - Whatsapp Bot",
     "logo": "https://i.imgur.com/232HsEg.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/khadher05/COSMIC",
+    "repository": "https://github.com/rangsial/COSMIC",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
